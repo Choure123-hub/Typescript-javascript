@@ -63,3 +63,4 @@ z="x";
  let n=1234;
  console.log(typeof(n)); //number
  console.log(typeof(Number.toString(n))); //string
+ 
