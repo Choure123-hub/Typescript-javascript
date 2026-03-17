@@ -163,3 +163,4 @@ console.log(a);
 // console.log(a);
 
 
+// Run Commands:tsx Day1/Variables.ts
