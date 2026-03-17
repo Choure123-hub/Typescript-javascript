@@ -45,3 +45,5 @@ console.log("-----------------------------------------------")
 //Recognize an Array  -typeof
 console.log(typeof friuts); //objects
 console.log(Array.isArray(friuts));
+
+// Runa Command: node JavascriptBasic/EvenOrOdd.js
