@@ -38,7 +38,7 @@ for (let n of numbers) {
   }
 }
  console.log("********************** If-Else Inside Loops example *******************")
-/*
+
 let mark:number=50;
 
 if(mark>=90 && mark<=100)
@@ -56,7 +56,7 @@ else if(mark>=60 && mark<=75)
 else
 {
   console.log('Grade D')
-}*/
+}
 //Example 4: Browser selection
 /*
 let browser:string = 'chrome';
